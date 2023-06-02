@@ -17,170 +17,13 @@
 
 
 
-.destaque {
-    font-size: 40px;
-    font-family: 'Roboto', sans-serif;
-    color: rgb(255, 255, 255);
-    text-shadow: gray 3px 3px;
 
-}
 
-.text-icon {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
 
-.text-icon h1 {
-    font-family: 'Poppins', sans-serif;
-    color: rgb(220 40 39);
-    text-shadow: 2px 2px rgba(0, 0, 0, 0.404);
-}
 
 /*CONCEITOS*/
 
-.concepts-wrapper {
-    padding: 20px;
-    background: linear-gradient(to right, #ffefba, #ffffff)
-}
 
-.concepts-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 50px
-}
-
-
-.concepts-title {
-    text-align: center;
-    padding: 40px;
-    font-size: 20px;
-    font-family: 'Roboto', sans-serif;
-    margin-bottom: 23px;
-    color: rgb(220 40 39);
-}
-
-.concepts-title p {
-    margin-top: 20px;
-    color: black;
-    font-size: 26px;
-}
-
-.concepts-card {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    width: 250px;
-    min-height: 300px;
-    max-height: 300px;
-    padding: 20px;
-    background: rgb(255 255 255 / 23%);
-    border-radius: 14px;
-    box-shadow: 3px 3px 10px black;
-    
-}
-
-.vision {
-    width: 300px;
-    max-height: 400px;
-}
-
-.concepts-card-icons {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 5px;
-    color: rgb(220 40 39);
-    font-weight: 600;
-    font-size: 20px;
-    font-family: 'Roboto', sans-serif;
-    margin-bottom: 23px;
-}
-
-.concepts-card p {
-    color: rgb(0 0 0);
-    text-shadow: 2px 2px 2px rgb(255 255 255 / 63%);
-    text-align: justify;
-    font-size: 16px;
-    font-family: 'Roboto', sans-serif;
-}
-
-.concepts-card-icons img {
-    width: 50px;
-    height: 50px;
-}
-
-.concepts-filial-text {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.concepts-filial-text p {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    max-width: 40ch;
-    color: black;
-}
-
-.concepts-filial-list ul {
-    display: flex;
-    flex-direction: column;
-    list-style: none;
-    gap: 20px;
-    color: black;
-}
-
-.concepts-filial-title {
-    margin-top: 60px;
-    color: black;
-    font-size: small;
-}
-
-.concepts-filial-title h1 {
-    text-align: center;
-    
-}
-
-.concepts-filial-list i {
-    color: rgb(220 40 39);
-    padding: 10px;
-}
-
-.concepts-filial {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    margin-top: 50px;
-    font-size: 20px;
-    font-family: 'Poppins', sans-serif;
-    text-align: justify;
-}
-.concepts-requierements{
-    width: 100%;
-    padding: 5%;
-    font-family: 'Poppins', sans-serif;
-    font-size: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: start;
-    list-style: none;
-    color: black;
-    
-}
-
-.concepts-requierements i {
-    color: rgb(220 40 39);
-    padding: 10px;
-}
-.concepts-requierements h2{
-    padding: 2%;
-}
 
 
 
@@ -241,6 +84,8 @@
     color: rgb(220 40 39);
     font-family: 'Poppins', sans-serif;
 }
+
+/* GALERY */
 
 .galery {
     display: flex;
